@@ -1,0 +1,723 @@
+[
+  {
+    "id": "sick-note-for-work",
+    "title": "Sick Note for Work",
+    "description": "Perfect for employees needing official documentation for sick leave or for seamless communication in case of missed work.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/pexels-shvets-production-7176317(1).jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "By receiving official confirmation of your sickness, you can ensure that you obtain sick leave as needed.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Our letters are universally accepted by employers, regardless of their size, be it small or large.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "You can effortlessly verify the authenticity of your letter, providing peace of mind to both you and your employer.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "employee-fitness-to-work-certificate",
+    "title": "Employee Fitness to Work Medical",
+    "description": "Tailored for employers ensuring their workforce’s health, or employees seeking confirmation of fitness for duty.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/testimonial-2.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "You can confidently resume work or embark on a new job, assured that your health and capability to perform have been certified.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " Our letters are accepted by employers of all sizes, whether small or large.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " You can have peace of mind knowing that your letter is signed by a registered UK practitioner.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "student-mitigation-letter",
+    "title": "Student Mitigation Letter",
+    "description": "Obtain a medical letter to support your UK College or University mitigating circumstance.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/thegpclinic-student-mitigation-letter-1.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " Get official proof of your mitigating circumstances to aid your academic needs",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Our Student Letters hold widespread acceptance among UK colleges and universities.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " You can rely on experienced UK practitioners for precise and reliable assessments.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "student-sick-leave-letter",
+    "title": "Student Sick Leave Letter",
+    "description": "Ideal for parents seeking documentation for their child’s illness or students requiring support for missed deadlines or exams.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/student-sick-leave-letter.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "By receiving official confirmation of your sickness, you can ensure that you obtain sick leave as needed.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Our letters are universally accepted by employers, regardless of their size, be it small or large.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "You can effortlessly verify the authenticity of your letter, providing peace of mind to both you and your employer.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "fit-for-flight-letter-for-expecting-mothers",
+    "title": "Fit for Flight Letter for Expecting Mothers",
+    "description": "Designed with expectant mothers in mind, our Flight Approval Letter ensures a worry-free and comfortable journey for you and your baby.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/employee-fitness-to-work-medical.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "If it is appropriate, you will obtain your letter on the same day as your consultation, guaranteeing minimal unnecessary delays.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Feel free to display your letter with confidence, as it is recognised and accepted by airlines across the globe.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Receive a definitive endorsement affirming your ability to travel by air, ensuring a sense of tranquility.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "chickenpox-flight-clearance-medical",
+    "title": "Chickenpox Flight Clearance Medical Certificate",
+    "description": "Suited for travellers needing medical clearance post-chickenpox recovery, ensuring smooth journeys.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/chickenpox-flight-clearance-medical.png",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "Obtain a formal confirmation of your recovery from chickenpox.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " Confidently present this letter, as it holds worldwide acceptance by airlines.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "With our 100% online platform, you can save valuable time and steer clear of any additional stress.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "specialist-referral",
+    "title": "Specialist Referral",
+    "description": "A referral letter to a specialist has the potential to save you time and money and alleviate stress.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/ezgif-com-webp-to-jpg.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " Accepted by health insurance companies",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "  Issued by a Registered UK GP",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Doctors online 9am to 9pm BST",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    },
+    "buttonType": "Consult Now"
+  },
+  {
+    "id": "visa-medicals-certificates-of-good-health",
+    "title": "Visa Medicals - Certificates of Good Health",
+    "description": "Travel confidently with Visa Medicals for a worry-free journey.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/visa-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "Your Clean Bill of Health",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " No Appointment Needed!",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " FCDO registered doctors",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Hard copy with signature and stamp posted",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "disability-medical-certificate",
+    "title": "Disability Medical Certificate",
+    "description": "Gain access to vital support and accommodations with our disability medical certificate.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/disability-medial-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "User-Friendly Procedure",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Expert Guidance",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "vaccine-exemption-certificate",
+    "title": "Vaccine Exemption Certificate",
+    "description": "Vaccine Exemption Certificates serve as crucial documentation to confirm an individual's exemption",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/vaccination-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " User-Friendly Procedure",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " Expert Guidance.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " You can have peace of mind knowing that your letter is signed by a registered UK practitioner.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "travel-with-medication-letter",
+    "title": "Travel with Medication Letter",
+    "description": "A Travel with Medication Letter, also known as a Travel Medication Letter",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/travelling-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " Swift and Hassle-Free Process",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Qualified UK Healthcare Professionals",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " You can have peace of mind knowing that your letter is signed by a registered UK practitioner.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "gym-and-health-club-cancellation-certificate",
+    "title": "Gym and Health Club Cancellation Certificate",
+    "description": "Gym and Health Club Cancellation Certificates are formal documents that enable individuals",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/jym-and-health-cancellation-certificate.png",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "Efficient Cancellation Support",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Convenient Process",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "event-and-activity-cancellation-certificate",
+    "title": "Event and Activity Cancellation Certificate",
+    "description": "Event and Activity Cancellation Certificates are vital documents that formalize the cancellation of planned events or activities",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/event-and-activity-cancellation-certificate.png",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    }
+  },
+  {
+    "id": "injury-and-accident-confirmation-certificates",
+    "title": "Injury and Accident Confirmation Certificates",
+    "description": "Injury and Accident Confirmation Certificates serve as essential documentation to confirm and record",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/injury-and-accident-confirmation-certificate.png",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    }
+  },
+  {
+    "id": "fit-to-cruise-medical-certificate",
+    "title": "Fit-to-Cruise Medical Certificate",
+    "description": "Fit-to-Cruise Medical Certificates serve as vital documentation to confirm your medical suitability for embarking on a cruise journey.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/fit-to-cruise-certificate.png",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    }
+  },
+  {
+    "id": "medical-letter-for-a-blue-badge",
+    "title": "Medical Letter for a Blue Badge",
+    "description": "Medical Letters for Blue Badges serve as essential documentation to support your application for a Blue Badge.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/medical-letter-for-blue-badge.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    }
+  },
+  {
+    "id": "emergency-cancellation-letter-for-travel",
+    "title": "Emergency Cancellation Letter for Travel",
+    "description": "Appropriate for travellers caught in travel emergencies, delivering prompt solutions for uninterrupted journeys.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/Letters-for-Travel-and-holidays.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " Get your certification rapidly and with ease, without the need for appointments.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": " Airlines, travel insurers, accommodation providers, and holiday companies all acknowledge and accept our letters.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Please obtain official confirmation of any unforeseen medical conditions that substantiate your need for cancellation.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "allergy-certificate",
+    "title": "Allergy Certificate",
+    "description": "Allergy Certificates serve as essential documentation to confirm your allergies.",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/elergy-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    }
+  },
+  {
+    "id": "sports-consultation-and-fitness-certificate",
+    "title": "Sports Consultation and Fitness Certificate",
+    "description": "Sports consultation and fitness certificates serve as essential documentation for individuals participating in various athletic",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/tgc-sports-consultation-certificate.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": " Your Clean Bill of Health",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "Signed by a UK GP delivered via email",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "work-adjustment-assessment",
+    "title": "Work Adjustment Assessment",
+    "description": "Streamline Work Adjustments with Medic Online",
+    "price": "£25.00",
+    "imageUrl": "/assets/images/thegpclinic-work-adjustment-assessment.jpg",
+    "pricing": {
+      "originalPrice": 25.0,
+      "discountedPrice": 25.0,
+      "discountPercentage": 0
+    },
+    "express": {
+      "list": [
+        {
+          "text": "You can rely on experienced UK practitioners for precise and reliable assessments.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        },
+        {
+          "text": "If it is appropriate, you will obtain your letter on the same day as your consultation, guaranteeing minimal unnecessary delays.",
+          "style": {
+            "color": "text-text",
+            "textSize": {
+              "small": "text-sm",
+              "medium": "md:text-base"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
